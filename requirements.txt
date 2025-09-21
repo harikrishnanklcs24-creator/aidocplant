@@ -1,4 +1,8 @@
 streamlit
-pillow
-google-generativeai
-gTTS
+pandas
+plotly
+PyPDF2
+python
+google
+numpy
+scikit-learn
